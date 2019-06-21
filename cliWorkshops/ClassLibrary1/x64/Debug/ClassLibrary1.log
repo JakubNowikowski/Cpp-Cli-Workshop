@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  ClassLibrary1.cpp
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ClassLibrary1.vcxproj -> C:\Users\XIJNOWIK\source\repos\Cpp-Cli-Workshops\cliWorkshops\x64\Debug\ClassLibrary1.dll
